@@ -1,0 +1,30 @@
+<html lang="eng">
+<head>
+    <link rel="stylesheet" href="style.css">
+<link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awersome/4.7.0/css/font-awersome.main.css">
+</head>
+<body>
+    <center>
+    <ul class="menu">
+    <li class="links"> <a href="#welcome"> About </a></li>
+        <li class="links"> <a href="#hobby"> My Hobby</a></li>
+        <li class="links"> <a href="#player"> My Favourite Player</a></li>
+        <li class="links"> <a href="#inspiration"> My Inspiration</a></li>
+        <li class="links"> <a href="#books"> My Favourite Book</a></li>
+        <li class="links"> <a href="#contact"> Contact</a></li>
+    </ul>
+        
+    <section id="actor">
+     <h1> My Favourite Book </h1>
+          <div class="line"></div>
+        <img class="picture" src="https://images-na.ssl-images-amazon.com/images/I/81YOuOGFCJL.jpg">
+        <h1>  Harry Potter and the Philosopher's Stone<br> <h2> Harry Potter and the Philosopher's Stone is a fantasy novel written by British author J. K. Rowling. The first novel in the Harry Potter series and Rowling's debut novel, it follows Harry Potter, a young wizard who discovers his magical heritage on his eleventh birthday, when he receives a letter of acceptance to Hogwarts School of Witchcraft and Wizardry. Harry makes close friends and a few enemies during his first year at the school, and with the help of his friends, he faces an attempted comeback by the dark wizard Lord Voldemort, who killed Harry's parents, but failed to kill Harry when he was just 15 months old.</h2> </h1>
+    <a class="Review" href="https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone" target="_blank"> Click Here To Know More About Harry Potter and the Philosopher's Stone  </a> <br> <br>
+    </section>
+    
+        
+    </body>
+    </html>
+    
+    
